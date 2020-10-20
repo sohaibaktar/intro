@@ -1,7 +1,5 @@
 ### Hi there, I'm Sohaib Aktar Gazi [pyapiras][website] 👋
 
-[![Website](https://img.shields.io/website?label=pyapiras.in&style=for-the-badge&url=https%3A%2F%2Fpyapiras.in)](https://pyapiras.in)
-
 
 ## I'm a  Developer, and Student !!
 
