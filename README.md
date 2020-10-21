@@ -3,7 +3,7 @@
 
 ## I'm a  Developer, and Student !!
 
-- 🔭 I just launched my first Site: [pyapiras!][course]!
+- 🔭 I just launched my first Site: [pyapiras!]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play badminton
