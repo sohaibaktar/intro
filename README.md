@@ -1,9 +1,9 @@
-### Hi there, I'm Sohaib Aktar Gazi [pyapiras][website] 👋
+### Hi there, I'm Sohaib Aktar Gazi [Portfolio][website] 👋
 
 
 ## I'm a  Developer, and Student !!
 
-- 🔭 I just launched my first Site: [Portfolio!]!
+- 🔭 I just launched my first Site: [Pyapiras!]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play badminton
