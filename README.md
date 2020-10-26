@@ -3,7 +3,7 @@
 
 ## I'm a  Developer, and Student !!
 
-- 🔭 I just launched my first Site: [pyapiras!]!
+- 🔭 I just launched my first Site: [Portfolio!]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play badminton
@@ -34,7 +34,7 @@
 <br />
 
 
-[website]: https://pyapiras.in
+[website]: https://sohaibaktar.github.io/sohaibaktar.github.oi/
 [twitter]: https://twitter.com/sohaibaktar
 [youtube]: https://www.youtube.com/channel/UCAkmFUOLxubfoqbnuhIdp_A
 [instagram]: https://instagram.com/aktarsohaib
