@@ -41,7 +41,7 @@
 </div>
 <p  align="center"><img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="8%"/></p>
 
-[website]: https://sohaibaktar.github.io/sohaibaktar.github.oi/
+[website]: https://sohaibaktar.github.io/sohaib_aktar/
 [twitter]: https://twitter.com/sohaibaktar
 [youtube]: https://www.youtube.com/channel/UCAkmFUOLxubfoqbnuhIdp_A
 [instagram]: https://instagram.com/aktarsohaib
